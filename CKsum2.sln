@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CKsum2", "CKsum2.vcxproj", "{E1AE4EB5-D6DB-4BF8-9C04-C3CD9F34C38E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1AE4EB5-D6DB-4BF8-9C04-C3CD9F34C38E}.Debug|x64.ActiveCfg = Debug|x64
+		{E1AE4EB5-D6DB-4BF8-9C04-C3CD9F34C38E}.Debug|x64.Build.0 = Debug|x64
+		{E1AE4EB5-D6DB-4BF8-9C04-C3CD9F34C38E}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1AE4EB5-D6DB-4BF8-9C04-C3CD9F34C38E}.Debug|x86.Build.0 = Debug|Win32
+		{E1AE4EB5-D6DB-4BF8-9C04-C3CD9F34C38E}.Release|x64.ActiveCfg = Release|x64
+		{E1AE4EB5-D6DB-4BF8-9C04-C3CD9F34C38E}.Release|x64.Build.0 = Release|x64
+		{E1AE4EB5-D6DB-4BF8-9C04-C3CD9F34C38E}.Release|x86.ActiveCfg = Release|Win32
+		{E1AE4EB5-D6DB-4BF8-9C04-C3CD9F34C38E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C0D474F-E196-4196-87F5-0AE5D26A741D}
+	EndGlobalSection
+EndGlobal
